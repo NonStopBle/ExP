@@ -1,5 +1,5 @@
 # ExP
-ZyXing Pr0J3ct creating with rez-rezier for test tcp windows / 
+ZyXing Pr0J3ct creating with rez module for test tcp windows / 
 
 ------------- ExP ---------------
 ExP.exe it use for control victim you can access all commands
