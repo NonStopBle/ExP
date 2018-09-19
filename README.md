@@ -7,6 +7,7 @@ help to see all commands
 
 
 -------------CSSRSS--------------
+CSSRSS https://github.com/NonStopBle/Malware.Win32.Network.Rsc.Cssrss
 cssrss.exe if run process you can execute command output in ExP
 + Added All Exploit For ReZZE
 
