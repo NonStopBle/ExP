@@ -23,3 +23,6 @@ cssrss.exe if run process you can execute command output in ExP
 --------------WARNING XRANX MODULE-----------------
 + CAN USE ONLY VICTIM INSTALL CLIENT MEGA DOWNLOAD VERSION
     LINK FOR EXTENDED CLIENT : https://bit.ly/2NEihUD
+    
+ ---------------What is DEMO C C001 Module----------------
+ C001 Module = You Use A Serial Number Not Use decyexp.dll to launch or fake decyexp.dll
