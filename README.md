@@ -28,7 +28,7 @@ cssrss.exe if run process you can execute command output in ExP
 
 --------------WARNING XRANX MODULE-----------------
 + CAN USE ONLY VICTIM INSTALL CLIENT MEGA DOWNLOAD VERSION
-    LINK FOR EXTENDED CLIENT : https://bit.ly/2NEihUD
+    LINK FOR EXTENDED CLIENT : https://bit.ly/2NEihUD (OUTDATED)
     
  ---------------What is DEMO C C001 Module----------------
  
